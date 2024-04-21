@@ -1,0 +1,3 @@
+[submodule "cookiecutter-fastapi/appleshort"]
+	path = cookiecutter-fastapi/appleshort
+	url = https://Cybersoulja@github.com/arthurhenrique/cookiecutter-fastapi
